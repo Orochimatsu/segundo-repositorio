@@ -1,2 +1,2 @@
-# segundo-repositorio
+# Repositorio para practicar git pull 
 Para PULL
