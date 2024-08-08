@@ -1,2 +1,2 @@
-# Repositorio para practicar git pull 
-Para PULL
+# Repositorio para practicar git fetch
+Para FETCH
